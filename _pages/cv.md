@@ -78,7 +78,7 @@ Annual Conference of the North American Chapter of the Association for Computati
 
 ### Research Analyst
 
-<p>TPG Telecome &nbsp;&nbsp; <em>Sydney, Australia</em>  &nbsp;&nbsp; ⏲️  <em>Mar 2021 - Present</em></p>
+<p>TPG Telecom &nbsp;&nbsp; <em>Sydney, Australia</em>  &nbsp;&nbsp; ⏲️  <em>Mar 2021 - Present</em></p>
 
 As a part of the Data and Analytics Centre of Excellence (CoE) team, I transform numerous data into actionable insights.
 - [**NPS**](https://en.wikipedia.org/wiki/Net_Promoter){:target="_blank"} **topic modelling** - model customers' feedback/comments and derive insights to improve customer service satisfaction
@@ -113,7 +113,7 @@ I was responsible for implementing the pseudocode and algorithm animation.
 - Using JavaScript function closures, all the visualization API functions and corresponding variables can be stored in an array and executed later, so it solved using ES6 `Generators` that functions executions cannot be reversed. Thereby, the animation can step backward as well.
 - To map the algorithm pseudocode with the actual code, I parsed and added a bookmark in each line of the pseudocode, and inserted the bookmarks at the corresponding position in the actual code, so the pseudocode and animation can be synchronized.
 - Implemented a customized hook use interval so that the auto-play function can read fresh states between each render. This hook can also detect the speed changes and reset the setInterval function, thereby adjusting the playback speed is achievable.
-- Based on the visualization APIs provided by `[Tracer.js](https://github.com/algorithm-visualizer/tracers.js)`, I implemented some common components and functions and expanded the library as well.
+- Based on the visualization APIs provided by [Tracer.js](https://github.com/algorithm-visualizer/tracers.js){:target="_blank"}, I implemented some common components and functions and expanded the library as well.
 
 ### ✏️ [Distributed Shared Whiteboard](/project/distributed_shared_whiteboard)
 
