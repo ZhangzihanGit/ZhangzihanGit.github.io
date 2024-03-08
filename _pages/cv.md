@@ -52,7 +52,8 @@ redirect_from:
 ## 📑 Publications
 ---
 
-- **RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answerings**\*, **Zihan Zhang**, Meng Fang, Ling Chen \
+- **RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answerings** \
+**Zihan Zhang**, Meng Fang, Ling Chen \
 Preprint, 2024 \
 <a href="https://arxiv.org/abs/2402.16457" target="_blank"><i class="fa-regular fa-file-pdf"></i></a> &nbsp; <a href="https://github.com/hyintell/RetrievalQA" target="_blank"><i class="fa-brands fa-github"></i></a> &nbsp;
 
