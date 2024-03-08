@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-> As an industry-based PhD student, I am passionate about developing NLP systems that are practical, robust, efficient, and can be applied to the industry. I have both research and industry experience in NLP and Data Science. \
-> **[Download my Resume here](https://zhangzihangit.github.io/files/zihan_zhang_resume.pdf "download"){:target="_blank"}**
+> I am passionate about developing NLP systems that are practical, robust, efficient, and can be applied to the industry. I have both research and industry experience in NLP and Data Science. \
+> **[⬇️ Download my Resume here](https://zhangzihangit.github.io/files/zihan_zhang_resume.pdf "download"){:target="_blank"}**
 
 ## 📚 Education
 ---
@@ -24,7 +24,7 @@ redirect_from:
 
 <p>Master in Software Engineering &nbsp;&nbsp; ⏲️  <em>Jul 2018 - Dec 2020</em></p>
 
-- GPA: 83/100 (First Class Honours/Distinction)
+- GPA: 83/100 (Top-5%, First Class Honours/Distinction)
 - **Awards:**
   - Dean’s Honour List, 2019 & 2020
   - Liz Haywood Awards for Best Software Engineering Team, 2020
@@ -51,6 +51,10 @@ redirect_from:
   
 ## 📑 Publications
 ---
+
+- **RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answerings**\*, **Zihan Zhang**, Meng Fang, Ling Chen \
+Preprint, 2024 \
+<a href="https://arxiv.org/abs/2402.16457" target="_blank"><i class="fa-regular fa-file-pdf"></i></a> &nbsp; <a href="https://github.com/hyintell/RetrievalQA" target="_blank"><i class="fa-brands fa-github"></i></a> &nbsp;
 
 - **How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances** \
 **Zihan Zhang**\*, Meng Fang\*, Ling Chen, Mohammad-Reza Namazi-Rad, Jun Wang \
@@ -145,7 +149,7 @@ A Guttman chart based students assessment analysis system. It can be used to hel
 Peer Reviewer:
 - EMNLP 2022-2023
 - EACL 2023
-- ACL Rolling Review October, December 2023
+- ACL Rolling Review 2023-2024
 
 ## ⭐ Skills & Certificates
 
