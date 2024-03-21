@@ -33,7 +33,7 @@ redirect_from:
  
 ### University of British Columbia
 
-<p>Summer Exchange Program in Computer Science &nbsp;&nbsp; ⏲️  <em>Jul 2017 - Aug 2017</em></p>
+<p>Summer Exchange Program in Electrical and Computer Engineering (ECE) &nbsp;&nbsp; ⏲️  <em>Jul 2017 - Aug 2017</em></p>
 
 - Algorithms and data structures
 - Web design and programming
