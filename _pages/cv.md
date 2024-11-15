@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-> I am passionate about developing NLP systems that are practical, robust, efficient, and can be applied to the industry. I have both research and industry experience in NLP and Data Science. \
+> I am passionate about developing LLM/NLP systems that are practical, robust, efficient, and can be applied to the industry. I have both research and industry experience in NLP and Data Science. \
 > **[⬇️ Download my Resume here](https://zhangzihangit.github.io/files/zihan_zhang_resume.pdf "download"){:target="_blank"}**
 
 ## 📚 Education
@@ -17,14 +17,14 @@ redirect_from:
 
 <p>Ph.D. student in School of Computer Science, <a href="https://utsnlp.github.io/" target="_blank">UTS NLP Group</a> &nbsp;&nbsp; ⏲️  <em>Mar 2021 - Present</em></p>
 
-- Natural language processing
+- Natural language processing / Knowledge updating in Large Language Models (LLMs)
 - Supervisor: [Prof. Ling Chen](https://profiles.uts.edu.au/Ling.Chen){:target="_blank"}
 
 ### University of Melbourne
 
 <p>Master in Software Engineering &nbsp;&nbsp; ⏲️  <em>Jul 2018 - Dec 2020</em></p>
 
-- GPA: 83/100 (Top-5%, First Class Honours/Distinction)
+- GPA: 83/100 (Top-5%, First Class Honours / High Distinction)
 - **Awards:**
   - Dean’s Honour List, 2019 & 2020
   - Liz Haywood Awards for Best Software Engineering Team, 2020
@@ -52,9 +52,14 @@ redirect_from:
 ## 📑 Publications
 ---
 
+- **MedINST: Meta Dataset of Biomedical Instructions** \
+Wenhan Han, Meng Fang, **Zihan Zhang**, Yu Yin, Zirui Song, Ling Chen, Mykola Pechenizkiy, Qingyu Chen \
+Conference on Empirical Methods in Natural Language Processing (***EMNLP, Findings***), 2024 \
+<a href="https://arxiv.org/abs/2410.13458" target="_blank"><i class="fa-regular fa-file-pdf"></i></a> &nbsp; <a href="https://github.com/aialt/MedINST" target="_blank"><i class="fa-brands fa-github"></i></a> &nbsp;
+
 - **RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answerings** \
 **Zihan Zhang**, Meng Fang, Ling Chen \
-Preprint, 2024 \
+Annual Meeting of the Association for Computational Linguistics (***ACL, Findings***), 2024 \
 <a href="https://arxiv.org/abs/2402.16457" target="_blank"><i class="fa-regular fa-file-pdf"></i></a> &nbsp; <a href="https://github.com/hyintell/RetrievalQA" target="_blank"><i class="fa-brands fa-github"></i></a> &nbsp;
 
 - **How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances** \
@@ -81,7 +86,7 @@ Annual Conference of the North American Chapter of the Association for Computati
 ## 👩🏻‍💻 Work Experience
 ---
 
-### Research Analyst
+### Student Researcher
 
 <p>TPG Telecom &nbsp;&nbsp; <em>Sydney, Australia</em>  &nbsp;&nbsp; ⏲️  <em>Mar 2021 - Dec 2023</em></p>
 
@@ -92,7 +97,7 @@ As a part of the Data and Analytics Centre of Excellence (CoE) team, I transform
 - **Postpay/Prepay/FWA customer insights analysis** - model and analysis customers churn and upgrade
 - **Cloud experience** - get involved in cloud services, familiar with data ETL and DevOps on AWS and Databricks
 
-### Front-End Developer Intern
+### Front-End Software Developer Intern
 
 <p>RESORTer &nbsp;&nbsp; <em>Melbourne, Australia </em>  &nbsp;&nbsp; ⏲️  <em>Nov 2019 - Mar 2020</em></p>
 
@@ -148,17 +153,17 @@ A Guttman chart based students assessment analysis system. It can be used to hel
 ---
 
 Peer Reviewer:
-- EMNLP 2022-2023
-- EACL 2023
+- ACL 2023, EMNLP 2022-2023, EACL 2023
 - ACL Rolling Review 2023-2024
+- NeurIPS 2024, ICLR 2025
 
 ## ⭐ Skills & Certificates
 
 
 **Languages**: Mandarin (native), English (fluent) \
 **Programming**: Python $>$ SQL $==$ JavaScript $>$ Spark $==$ Java $>$ C $==$ C++ $==$ Haskell \
-**Libraries & Services**: PyTorch, HuggingFace, Scikit-learn and Pandas, Amazon Web Services (S3, SageMaker, Redshift), Databricks \
-**Software & Tools & Management**: Git, Linux, Agile, Scrum, Confluence, Jira, $\LaTeX$ \
+**Libraries & Services**: PyTorch, HuggingFace, Scikit-learn and Pandas, AWS (S3, SageMaker, Redshift), Databricks \
+**Software & Tools & Management**: Git, Linux, Docker, Agile, Scrum, Confluence, Jira, $\LaTeX$ \
 **Web Dev**: React, Ant Design, material-ui, HTML, CSS \
 **Computer Network**: basic HTTP, TCP/IP, cryptography, web security \
 **Certificates**:
